@@ -56,9 +56,7 @@ Content-Type: text/html
 
 ---
 
-Different Versions of HTTP:
-Sure! Here are the different **HTTP versions** and what makes each one special:
-
+# Different Versions of HTTP:
 ---
 
 ### 🌐 **HTTP/0.9** (1991)
@@ -114,8 +112,7 @@ Sure! Here are the different **HTTP versions** and what makes each one special:
 
 ---
 
-How each version works:
-Absolutely! Here's an explanation of **how each version of HTTP works**, with **real-life scenarios** and a **workflow-style breakdown** for each:
+# How each version works:
 
 ---
 
@@ -201,8 +198,7 @@ It's fast, reliable, and secure — no need for repeated handshakes.
 
 ---
 
-Some other components of http
-Perfect! Let's go over each concept one by one with **scenario-based examples** to help you visualize how they work in the real world:
+# Some other components of HTTP
 
 ---
 
