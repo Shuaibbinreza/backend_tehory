@@ -1,4 +1,4 @@
-How HTTP Works:
+#How HTTP Works:
 HTTP (HyperText Transfer Protocol) is the foundation of data communication on the web. Here's a simple breakdown of how it works:
 
 ---
